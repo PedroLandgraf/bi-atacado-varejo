@@ -140,6 +140,14 @@ O objetivo final é utilizar os dados para apoiar decisões que possam contribui
 
 ---
 
+👨‍💻 Autor
+
+Pedro Landgraf
+
+Business Intelligence | Data Analytics
+
+---
+
 ## 🗂️ Estrutura do projeto
 
 ```text
