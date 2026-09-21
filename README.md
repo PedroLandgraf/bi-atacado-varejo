@@ -111,6 +111,55 @@ O objetivo final é utilizar os dados para apoiar decisões que possam contribui
 **menos excesso + menos capital imobilizado + maior eficiência operacional.**
 
 ---
+## 💰 Impacto potencial para o negócio
+
+O objetivo do projeto é transformar análise de dados em ações que possam gerar eficiência operacional e financeira.
+
+### Redução de SKUs
+
+A Curva ABC permite identificar produtos de baixa participação no faturamento.
+
+Esses produtos podem ser avaliados individualmente para:
+
+- revisão do mix;
+- redução de estoque;
+- redução da variedade;
+- alteração da frequência de compra;
+- retirada de itens de baixa relevância.
+
+### Redução de excessos
+
+A análise conjunta de vendas e compras permite investigar situações em que o volume adquirido não acompanha a demanda.
+
+Isso pode contribuir para:
+
+**menos excesso → menor capital imobilizado → maior eficiência.**
+
+### Planejamento de compras
+
+A análise do comportamento das vendas por dia da semana e período do mês permite identificar padrões de demanda.
+
+Essas informações podem apoiar:
+
+- planejamento de compras;
+- definição de níveis de estoque;
+- frequência de abastecimento;
+- negociação com fornecedores.
+
+### Identificação de oportunidades
+
+A combinação de vendas, compras, produtos e fornecedores permite direcionar a investigação para pontos como:
+
+- produtos de baixa saída;
+- concentração de compras;
+- variações de demanda;
+- oportunidades de negociação;
+- excesso de aquisição;
+- concentração de faturamento em determinados SKUs.
+
+> **O objetivo do BI não é apenas mostrar o que aconteceu. É ajudar a identificar onde investigar o que pode ser melhorado.**
+
+---
 
 ## 🔎 Indicadores e recursos
 
