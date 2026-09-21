@@ -143,23 +143,19 @@ O objetivo final é utilizar os dados para apoiar decisões que possam contribui
 
 ### Visão Geral
 
-![Visão Geral](dashboard.png)
+![Visão Geral](dashboard.varejo.png)
 
 ### Análise de Vendas
 
-![Análise de Vendas](screenshots/02-vendas.png)
-
-### Análise de Compras
-
-![Análise de Compras](screenshots/03-compras.png)
+![Análise de Vendas](faturamento.varejo.png)
 
 ### Curva ABC
 
-![Curva ABC](screenshots/04-curva-abc.png)
+![Curva ABC](curva ABC.varejo.png)
 
 ### Oportunidades
 
-![Oportunidades](screenshots/05-oportunidades.png)
+![Oportunidades](inteligencia.varejo.png)
 
 ---
 
