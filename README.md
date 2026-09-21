@@ -151,7 +151,7 @@ O objetivo final é utilizar os dados para apoiar decisões que possam contribui
 
 ### Curva ABC
 
-![Curva ABC](curva ABC.varejo.png)
+![Curva ABC](curva.abc.varejo.png)
 
 ### Oportunidades
 
