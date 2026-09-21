@@ -139,6 +139,29 @@ O objetivo final é utilizar os dados para apoiar decisões que possam contribui
 - **Data Visualization**
 
 ---
+## 🖥️ Dashboard
+
+### Visão Geral
+
+![Visão Geral](dashboard.png)
+
+### Análise de Vendas
+
+![Análise de Vendas](screenshots/02-vendas.png)
+
+### Análise de Compras
+
+![Análise de Compras](screenshots/03-compras.png)
+
+### Curva ABC
+
+![Curva ABC](screenshots/04-curva-abc.png)
+
+### Oportunidades
+
+![Oportunidades](screenshots/05-oportunidades.png)
+
+---
 
 👨‍💻 Autor
 
