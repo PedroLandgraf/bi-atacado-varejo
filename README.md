@@ -224,12 +224,11 @@ bi-atacado-varejo/
 ├── dashboard/
 │   └── BI_Atacado_Varejo.pbit
 │
-├── screenshots/
-│   ├── 01-visao-geral.png
-│   ├── 02-vendas.png
-│   ├── 03-compras.png
-│   ├── 04-curva-abc.png
-│   └── 05-oportunidades.png
+screenshots/
+├── dashboard.varejo.png
+├── faturamento.varejo.png
+├── curva.abc.varejo.png
+└── inteligencia.varejo.png
 │
 ├── docs/
 │   └── metodologia.md
